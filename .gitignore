@@ -57,6 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 secrets.env
+gaccount.json
+*.pem
 
 # next.js build output
 .next
