@@ -19,7 +19,7 @@ const request = {
   config: {
     encoding: "MULAW",
     sampleRateHertz: 8000,
-    languageCode: "en-GB"
+    languageCode: "en-US"
   },
   interimResults: true
 };
